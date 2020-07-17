@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Lucas
+
+I like to make things. From cool `/regex/i` to full fledge Software products.
 
 <!--
 **lucasvall/lucasvall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
